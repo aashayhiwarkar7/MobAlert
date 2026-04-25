@@ -5,7 +5,7 @@
 
 A real-time IoT safety system that detects crowd crush risk before it becomes fatal — using multi-sensor fusion, automated escalating alerts, and a physical entry barrier.
 
-Built **solo** and demonstrated at **RESONANCE 2K26, IEEE VIT Pune Hackathon, April 2025.**
+Built **solo** and demonstrated at **RESONANCE 2K26, IEEE VIT Pune Hackathon, April 2026.**
 
 ---
 
