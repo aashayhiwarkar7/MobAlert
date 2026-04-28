@@ -289,7 +289,7 @@ MobAlert/
 **RESONANCE 2K26**
 IEEE Computational Intelligence Society
 Department of CSE (AI & ML), VIT Pune Bibwewadi
-April 17, 2025 — IoT Track, Sponsored by DesignBytes
+April 17, 2026 — IoT Track, Sponsored by DesignBytes
 
 ---
 
