@@ -1,6 +1,6 @@
-# CrowdGuard — Wiring & Connections Guide
+# MobAlert — Wiring & Connections Guide
 
-Complete hardware connection reference for the CrowdGuard Crowd Crush Early Warning System.
+Complete hardware connection reference for the MobAlert Crowd Crush Early Warning System.
 
 ---
 
